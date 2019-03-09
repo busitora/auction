@@ -1,7 +1,7 @@
 Item.create( 
   name: "エアマックス 95", 
-  description: "1995年のランニングマックスモデルの復刻版。時代を席巻した名モデルAIR MAX95。当時は
-    bin/rails db:seed斬新でハイテクなルックスがストリートのファッションシーンを席巻しました。",
+  description: "1995年のランニングマックスモデルの復刻版。時代を席巻した名モデルAIR MAX95。
+  当時は斬新でハイテクなルックスがストリートのファッションシーンを席巻しました。",
   price: 25000,
   seller: "Taro",
   email: "kazuma@takahashi.org", 
